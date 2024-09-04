@@ -6,8 +6,21 @@ import header.scroll
 
 diagram.png
 
-Live stream
+Live stream #1
  https://youtube.com/live/02-wJ7Od9Bo?feature=share
+
+# Plan:
+
+[] Display camera view in webbrowser
+[] Detect tagged objects/papers
+[] Parse "programs" written on those objects
+[] Execute programs
+[] Project outputs onto surface
+
+# Equipment needed:
+
+[] Webcam
+[] Projector
 
 # Core Concept (theories):
 (Is there any place where the core concepts are listed?)
