@@ -1,12 +1,15 @@
-title LightOS - An implementation of DynamicLand's RealTalkOS
+title LightOS
 
 import header.scroll
+
+# An implementation of DynamicLand's RealTalkOS
 
 Live stream
  https://youtube.com/live/02-wJ7Od9Bo?feature=share
 
 Links:
 - https://dynamicland.org/2024/Intro/
+- https://dynamicland.org/2024/Is_Realtalk_open_source/
 
 ### Other implementations:
 - https://folk.computer/
